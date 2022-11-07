@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background-color: white;
+  height: 50px;
+}
+.nav-center {
+  height: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  letter-spacing: 5px;
+  text-transform: capitalize;
+}
+.nav-center h4 {
+  color: rgb(86, 150, 206);
+}
+.nav-center ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+a {
+  text-decoration: none;
+}
+.nav-center li {
+  width: 100px;
+}
+main {
+  height: 550px;
+  background-color: rgb(234, 232, 232);
+  padding: 200px 100px;
+  margin: 0px;
+}
+.container {
+  text-align: center;
+}
+.container h2 {
+  text-align: center;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  height: 100px;
+  padding-top: 30px;
+  letter-spacing: 5px;
+  text-transform: capitalize;
+}
+.container .btn {
+  text-transform: uppercase;
+  margin-top: 30px;
+  border-width: 2px;
+  width: 150px;
+  height: 50px;
+}
+.color {
+  color: rgb(86, 150, 206);
+  text-transform: uppercase;
+}
+
+/* header {
+  height: 500px;
+  background-color: red;
+}
+h1 {
+  font-family: sans-serif;
+}
+.navdiv {
+  height: 50px;
+  background-color: white;
+  letter-spacing: 5px;
+}
+.navbar {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar-text {
+  font-size: medium;
+  color: rgb(86, 150, 206);
+  height: 100%;
+  width: 50%;
+}
+.nav {
+  height: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 50%;
+}
+.display {
+  background-color: blue;
+  height: 400px;
+}
+.display-btn {
+}
+.btn .btn-lg {
+}
+.submit-btn {
+  height: 30px;
+  width: 100px;
+} */
